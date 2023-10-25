@@ -1,2 +1,2 @@
 # Arduino-C-Data-Entry
-triathlon data entry test uploaded to Arduino
+CS12020 - Arduino C Triathlon Assignment Worksheet
